@@ -14,3 +14,10 @@ TensorFlow
 Pillow
 NumPy
 Plotly
+
+![image](https://github.com/user-attachments/assets/d1f50b25-6ed1-4189-82d9-c50154109a8b)
+
+![image](https://github.com/user-attachments/assets/4f5bef08-c615-4f97-820d-a19127f7701e)
+
+![image](https://github.com/user-attachments/assets/b14c430e-41e0-4e7d-8b8a-102b57b2203e)
+
