@@ -2,6 +2,9 @@
 A deep learning based emotion detection web app can detect 7 types of emotion. 'angry', 'disgusted', 'fearful', 'happy', 'neutral', 'sad', 'surprised'. The accuracy of this model is 0.8990.
 It uses a Convolutional Neural Network (CNN) to detect and classify emotions from facial images uploaded by the user. The app provides an interactive way to upload images and receive real-time emotion predictions.
 
+
+Webapp Link - https://emotion-detector-deeplearning.streamlit.app/
+
 Features
 Introduction Page: Provides an overview of the application and instructions on how to use it.
 Emotion Detection Page: Allows users to upload an image of a face and predicts the emotion displayed using a trained CNN model.
